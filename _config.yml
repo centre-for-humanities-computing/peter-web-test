@@ -1,3 +1,7 @@
+
+theme: jekyll-theme-minimal
+title: Peters Test
+description: Tester beskrivelse
 lsi: false
 safe: true
 source: .
